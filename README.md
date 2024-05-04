@@ -33,10 +33,13 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-```c
+```
 Home page:
 <img style="width: 385px; height: 803px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px black solid" src="https://via.placeholder.com/385x803" />
+```
 
+
+```
 Events page:
 <div style="width: 365px; height: 800px; position: relative; background: white">
   <img style="width: 374px; height: 815px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/374x815" />
@@ -49,8 +52,9 @@ Events page:
   <div style="width: 374px; height: 28px; left: 0px; top: 548px; position: absolute; background: #D9D9D9"></div>
   <div style="width: 383px; height: 38px; left: -5px; top: 543px; position: absolute; text-align: center; color: #F20B0B; font-size: 13px; font-family: Inter; font-weight: 800; line-height: 20px; word-wrap: break-word">REGISTER IN THE  FORM TO EXPLORE THE CELANZA</div>
 </div>
-
-Event googleform page:
+```
+```
+Event googleform page(3&4):
 <div style="width: 393px; height: 800px; position: relative; background: white">
   <img style="width: 400px; height: 828px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/400x828" />
   <img style="width: 393px; height: 151px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/393x151" />
@@ -92,7 +96,8 @@ Event googleform page:
   <div style="width: 140px; height: 34px; left: 214px; top: 501px; position: absolute; background: rgba(114.95, 125.18, 178.91, 0.39); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 90px; border: 1px #1A1313 solid"></div>
   <div style="width: 120px; height: 30px; left: 223px; top: 505px; position: absolute; text-align: center; color: black; font-size: 15px; font-family: Inter; font-weight: 800; line-height: 20px; word-wrap: break-word">SUMMIT</div>
 </div>
-
+```
+```
 End page:
 <div style="width: 400px; height: 800px; position: relative; background: white">
   <img style="width: 400px; height: 800px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/400x800" />
@@ -105,7 +110,20 @@ End page:
 ```
 
 ## OUTPUT:
+![alt text](<Screenshot 2024-05-04 114921.png>)
+ 
+ HOME PAGE:
+ ![alt text](<Screenshot 2024-05-04 120307.png>)
 
+ EVENTS PAGE:
+ ![alt text](<Screenshot 2024-05-04 120435.png>)
+
+Event googleform page(3&4):
+![alt text](<Screenshot 2024-05-04 120638.png>)
+![alt text](<Screenshot 2024-05-04 120657.png>)
+
+End page:
+![alt text](<Screenshot 2024-05-04 120713.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
