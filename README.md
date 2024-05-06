@@ -1,44 +1,29 @@
 # Ex09 Event Registration Web Application
 ## Date:04.05.2024
-
 ## AIM:
 To design, develop and deploy a web application for event registration.
-
 ## DESIGN STEPS:
-
 ### Step 1:
 Create a new frame.
-
 ### Step 2:
 Select any one preset size of your choice.
-
 ### Step 3:
 Select the shapes you need.
-
 ### Step 4:
 Import images as needed.
-
 ### Step 5:
 Create pages based on your need and link them.
-
 ### Step 6:
-
 Validate the HTML and CSS code.
-
 ### Step 6:
-
 Publish the website in the given URL.
-
 ## DESIGN TOOL:
 Figma
-
 ## CODE:
 ```
 Home page:
 <img style="width: 385px; height: 803px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px black solid" src="https://via.placeholder.com/385x803" />
 ```
-
-
 ```
 Events page:
 <div style="width: 365px; height: 800px; position: relative; background: white">
@@ -108,22 +93,15 @@ End page:
   <img style="width: 111px; height: 107px; left: 240px; top: 497px; position: absolute" src="https://via.placeholder.com/111x107" />
 </div>
 ```
-
-## OUTPUT:
-![alt text](<Screenshot 2024-05-04 114921.png>)
- 
+## OUTPUT: 
  HOME PAGE:
  ![alt text](<Screenshot 2024-05-04 120307.png>)
-
  EVENTS PAGE:
  ![alt text](<Screenshot 2024-05-04 120435.png>)
-
-Event googleform page(3&4):
+ Event googleform page(3&4):
 ![alt text](<Screenshot 2024-05-04 120638.png>)
 ![alt text](<Screenshot 2024-05-04 120657.png>)
-
-End page:
+ End page:
 ![alt text](<Screenshot 2024-05-04 120713.png>)
-
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
